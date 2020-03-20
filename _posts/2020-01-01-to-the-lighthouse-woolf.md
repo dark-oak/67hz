@@ -17,5 +17,6 @@ There are so many passages in this book that left me stunned. How Woolf is able 
 [To the Lighthouse](https://amzn.to/2xiwLTh)
 
 
+* * * 
 
 * 5/8 is a musical form with 5 eighth-notes per measure. Traditional western music has 4 quarter-notes per measure or 8 eighth-notes. The waltz is the exception with 3 quarter notes. Listen to **Take 5** by ***Bill Evans*** to hear 5/8. Try counting 1-2-3-4-5 in rhythm. Next, listen to something like **Johnny B. Goode** by ***Chuck Berry*** in 4/4 and count 1-2-3-4. Now go buy a pack of smokes and a pork-pie hat. You are a bonafide, gin-soacked jazzer with rockabilly stylings.

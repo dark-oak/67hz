@@ -1,8 +1,8 @@
 ---
 layout: post
+title: g++ compiler flags you should know about
 ---
 
-# g++ compiler flags you should know about
 
 I decide to `Compile` a list of flags I've stumbled upon while grepping the compiler man pages - after all, who will compile the compilers?
 

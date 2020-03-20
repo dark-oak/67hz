@@ -1,13 +1,9 @@
 ---
 layout: post
 title: To the Lighthouse - Virginia Woolf
-category: literature
-tags: [books, virginia woolf]
+category: literature 
+tags: [books, virginia woolf, fiction]
 ---
-
-
-[To the Lighthouse](https://amzn.to/2xiwLTh)
-
 
 First of all, this is the first Virginia Woolf I have read. On one hand, I am bummed out for going through life up until now without her insight, but as Randy Travis would say - on the other hand. I have so much Woolf to consume. 
 
@@ -18,4 +14,5 @@ Woolf can be lachrymose, no doubt. But where she induces sadness, she lifts the 
 There are so many passages in this book that left me stunned. How Woolf is able to dish out many lifetimes worth of epiphanies and poignant lamentations is beyond reality. I usually mark passages that floor me. I stopped doing that a third of the way in. They are too numerous to keep track of. When people tell me they only read non-fiction because they prefer to learn things when they read, I immediately file them in the dismissal category. Woolf is a great answer to such misinformed erudites. Read this. Learn about life. If you finish it without laughing out loud or crying yourself to sleep, you have an operating system that needs updating - you ain't human. Spend a weekend with this one. Stick with it. Find Virginia's pace and let her pull back the curtain for you.
 
 
+[To the Lighthouse](https://amzn.to/2xiwLTh)
 

@@ -1,13 +1,15 @@
 ---
 layout: post
-author: Aaron
 ---
 
-Debugging and unit testing should be logically inseparable. That being said, for those of you who are new to Google Test, here is a flag that makes all the difference in backtracing. `--gtest_catch_exceptions=0`. It's in the docs, but not readily apparent. Hopefully, this saves y'all some time if you are wondering how to break on a failing test.
+Debugging and unit testing should be logically inseparable. That being said, for those of you who are new to Google Test, this flag makes all the difference.
 
-GDB's tab completion makes it easy to find the test you need. Just follow the format below.
+`--gtest_catch_exceptions=0`
 
-Below, we step into the source once we get to the failing test body and then issue a backtrace.
+It is in the docs, but not readily apparent. Hopefully, this saves y'all some time if you are wandering the docs aimlessly wondering how on earth you are going to break on that failing test that has you seeing red.
+
+GDB's tab completion makes it easy to find the test you need. Just follow the format below. In the example, `bt` is issued in the offending test's function body to issue a backtrace. This accounts for about 90% of my gtest debugging workflow. Start with a backtrace and work backward or something to that effect.
+
 
 ```bash
 $ gdb
@@ -17,6 +19,7 @@ $ gdb
 (gdb) r
 (gdb) n
 (gdb) bt
+(gdb) ****gremlins****
 ```
 
 Et voila!

@@ -31,7 +31,9 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-color: #FBFAF7;
+	// background-color: #FBFAF7;
+	background-color: #FDF5E8; // 67hz - paperlight
+	// background-color: #f5ce8f; // 67hz - paperlight 25% darker
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -217,6 +219,8 @@ td {
 
 header {
 	background-color: #171717;
+	// background-color: #4e4c48; // 67hz
+	background-color: #292826; // 67hz
 	color: #FDFDFB;
   width:170px;
   float:left;

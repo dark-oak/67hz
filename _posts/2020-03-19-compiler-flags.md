@@ -79,7 +79,7 @@ See `man g++` for details...
 
 ```
 
-# 2. Disable copy elision 
+# 2. Disable copy elision (g++)
 
 
 

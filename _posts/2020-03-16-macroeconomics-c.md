@@ -17,7 +17,7 @@ This one is ubiquitous in systems programming:
 char buf[BUF_SIZE];
 ```
 
-The above example utilizes the hot-swap nature of predefined macros to give us a constant without the overhead of memory allocation. I had to re-program myself to stop doing this in C++ codebases. C++ is all about const correctness and what better place to have a const that something like in the example above. Of course, you also have a string type in C++ so you no longer have to deal with pointers to pointers for dealing with lists of strings: `char **c`. 
+The above example utilizes the hot-swap nature of predefined macros to give us a constant without the overhead of memory allocation. I had to re-program myself to stop doing this in C++ codebases. C++ is all about const correctness and what better place to have a const that something like in the example above.
 
 ```cpp
 const size_t BuffSize = 1024;

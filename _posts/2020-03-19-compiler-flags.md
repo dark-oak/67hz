@@ -38,7 +38,7 @@ private:
     int sz = 0;
 
 public:
-    SomeContainer(int s) {    // warns about lack of member init list
+    explicit SomeContainer(int s) {    // warns about lack of member init list
         if (s < 0) // but a class invariant is useful in this case
           throw length_error("Container constructor: negative size");
         elem = new double[s];

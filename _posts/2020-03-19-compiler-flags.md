@@ -93,7 +93,7 @@ void spamAllMyLicentiousPhoneNumbers(BlackBook& bb1, BlackBook& bb2, BlackBook& 
     //...
     masterList = bb1 + bb2 + bb3;
     //...
-    if (current24HourTime > 400)
+    if (current24HourTime > 400 && current24HourTime < 800)
         sendTextMessageIWillRegretTomorrow(masterList, textMessage);
 }
 ```

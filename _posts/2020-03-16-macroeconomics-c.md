@@ -2,6 +2,7 @@
 layout: post
 title: macroeconomics in C
 category: software
+tags: [c++, c, macros]
 ---
 
 

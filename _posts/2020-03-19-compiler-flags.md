@@ -2,10 +2,11 @@
 layout: post
 title: compiler flags you should know about
 category: software
+tags: [c++, c, g++, gcc, compilers]
 ---
 
 
-I decide to `Compile` a list of flags I use or may have stumbled upon while grepping the compiler man pages trying to remember how to disable this or that - after all, who will compile the compilers?
+I decide to `Compile` a list of flags I use or stumbled upon while grepping the compiler man pages trying to remember how to disable this or that - after all, who will compile the compilers?
 
 # 1. The Meyers flag (g++)
 

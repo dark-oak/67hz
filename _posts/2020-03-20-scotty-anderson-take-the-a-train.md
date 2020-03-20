@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Scotty Anderson is an unreal jazz guitarist
-category: guitar
+category: music
+tags: [guitar, jazz, scotty anderson]
 ---
 
 

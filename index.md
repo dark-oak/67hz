@@ -13,12 +13,12 @@ After using libraries like [Libsodium](https://download.libsodium.org/doc) for m
 ***Cryptography in C and C++*** opens with a breakdown of number theory in C. This is a good crash course in arithmetic and number theory in its own right. Moving on to the actual breakdown analysis of functions and algorithms happens seamlessly about 200 pages in. This is a dense read, but worth it.
 
 
-... Plus, any book that opens with a quote such as below is bound to be good, right?
+... Plus, any book that opens with this quote destined to be good, right?
 
 > If you look at zero you see nothing; but look through it and you will see the world.
->
-> Robert Kaplan, The Nothing That Is: A Natural History of Zero
+> -- <cite>Robert Kaplan, The Nothing That Is: A Natural History of Zero</cite>
 
+Of course, now I have Kaplan's book on order from Thrift Books. This is one of many quote-based purchases. Should be a good'n.
 
 <h1>Latest Posts</h1>
 

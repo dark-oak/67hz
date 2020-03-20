@@ -15,8 +15,7 @@ This first one is great. Like most C++ devs, I am a huge fan of Scott Meyers ***
 I love this tidbit from the Recommended Reading section of ***More Effective C++*** regarding James Coplien's ***Advanced C++ Programming Styles and Idioms***:
 
 >>I generally refer to this as "the LSD book," because it is purple and it will expand your mind.
->>
->> Scott Meyers - More Effective C++
+>> --<cite>Scott Meyers - More Effective C++</cite>
 
 
 ...But, back to flags.

@@ -8,6 +8,7 @@ I decide to `Compile` a list of flags I use or may have stumbled upon while grep
 
 # 1. The Meyers flag (g++)
 
+
 This first one is great. Like most C++ devs, I am a huge fan of Scott Meyers ***Effective*** series of books. Any tech read that makes me laugh out loud deserves a permanent place on the bookshelf.
 
 I love this tidbit from the Recommended Reading section of ***More Effective C++*** regarding James Coplien's ***Advanced C++ Programming Styles and Idioms***:
@@ -18,6 +19,11 @@ I love this tidbit from the Recommended Reading section of ***More Effective C++
 
 
 ...But, back to flags.
+
+
+```
+-Weffc++
+```
 
 This give you some extra insight even compared to `-Wall`.
 
@@ -74,6 +80,7 @@ See `man g++` for details...
 ```
 
 # 2. Disable copy elision 
+
 
 
 Modern C++ gives us move semantics for free. No more worrying about returning that 

@@ -4,7 +4,7 @@ title: compiler flags you should know about
 ---
 
 
-I decide to `Compile` a list of flags I've stumbled upon while grepping the compiler man pages - after all, who will compile the compilers?
+I decide to `Compile` a list of flags I use or may have stumbled upon while grepping the compiler man pages trying to remember how to disable this or that - after all, who will compile the compilers?
 
 # 1. The Meyers flag (g++)
 
@@ -17,7 +17,7 @@ I love this tidbit from the Recommended Reading section of ***More Effective C++
 >> Scott Meyers - More Effective C++
 
 
-...But, back to flags. I found this gem trying to remember how to disable copy elision (`-fno-elide-constructors`).
+...But, back to flags.
 
 This give you some extra insight even compared to `-Wall`.
 
@@ -72,5 +72,19 @@ See `man g++` for details...
    warnings.
 
 ```
+
+# 2. Disable copy elision 
+
+
+Modern C++ gives us move semantics for free. No more worrying about returning that 
+million member container by value. But, sometimes it can be "fun" to see what could have been. 
+
+`-fnoelide-constructors`
+
+Set this flag and watch your copy ctors light up. No more copy elision. I actually find this one to be useful as a reminder to implement move ops.
+
+
+
+
 
 

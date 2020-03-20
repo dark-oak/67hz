@@ -1,6 +1,7 @@
 ---
 layout: post
 title: debugging failing Google Tests with gdb
+category: software
 ---
 
 Debugging and unit testing should be logically inseparable. That being said, for those of you who are new to Google Test, this flag makes all the difference.
@@ -9,7 +10,7 @@ Debugging and unit testing should be logically inseparable. That being said, for
 
 It is in the docs, but not readily apparent. Hopefully, this saves y'all some time if you are wandering the docs aimlessly wondering how on earth you are going to break on that failing test that has you seeing red.
 
-GDB's tab completion makes it easy to find the test you need. Just follow the format below. In the example, `bt` is issued in the offending test's function body to issue a backtrace. This accounts for about 90% of my gtest debugging workflow. Like the old adage: start with a backtrace and work backward or something to that effect.
+GDB's tab completion makes it easy to find the test you need. Just follow the format below. In the example, `bt` is issued in the offending test's function body to issue a backtrace. This accounts for about 90% of my gtest debugging workflow. Like the old adage: start with a backtrace and work backward - or something to that effect.
 
 
 ```bash

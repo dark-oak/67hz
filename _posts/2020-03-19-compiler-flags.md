@@ -1,6 +1,7 @@
 ---
 layout: post
 title: compiler flags you should know about
+category: software
 ---
 
 

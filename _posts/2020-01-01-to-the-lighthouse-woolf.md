@@ -5,7 +5,7 @@ category: literature
 tags: [books, virginia woolf, fiction]
 ---
 
-First of all, this is the first Virginia Woolf I have read. On one hand, I am bummed out having gone through life up until now without her insight, but as Randy Travis would say - on the other hand. I have so much Woolf to consume. 
+First of all, this is the first Virginia Woolf I have read. On one hand, I am bummed out having gone through life up until now without her insight, but as Randy Travis would say - ***on the other hand***. I have so much Woolf to consume. 
 
 This book is just fantastic. Her style is unlike anything I have encountered. The reader is bounced from one character's thoughts to anothers. Some of the "On Writing" style books will tell you not to use voice-over or inner dialogue, but here it is essential. I have always been impressed by writers who can create full characters  who prop the story up on their own. Fill a book with even just one of those and you are golden. Steinbeck does it with dozens, but that's another story, literally.
 

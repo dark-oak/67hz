@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Debugging Failing Google Tests with gdb
 ---
 
 Debugging and unit testing should be logically inseparable. That being said, for those of you who are new to Google Test, this flag makes all the difference.

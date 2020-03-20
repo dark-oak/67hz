@@ -1,10 +1,12 @@
 ---
 layout: post
-title: g++ compiler flags you should know about
+title: compiler flags you should know about
 ---
 
 
 I decide to `Compile` a list of flags I've stumbled upon while grepping the compiler man pages - after all, who will compile the compilers?
+
+# 1. The Meyers flag (g++)
 
 This first one is great. Like most C++ devs, I am a huge fan of Scott Meyers ***Effective*** series of books. Any tech read that makes me laugh out loud deserves a permanent place on the bookshelf.
 
@@ -15,7 +17,31 @@ I love this tidbit from the Recommended Reading section of ***More Effective C++
 >> Scott Meyers - More Effective C++
 
 
-...Back to flags. I found this gem trying to remember how to disable copy elision (`-fno-elide-constructors`).
+...But, back to flags. I found this gem trying to remember how to disable copy elision (`-fno-elide-constructors`).
+
+This give you some extra insight even compared to `-Wall`.
+
+It is overly cautious so you will get flags on some of the standard library headers. If assignment happens within ctors, expect member initialization list warnings. For example, the following code will throw a warning:
+
+
+```cpp
+class SomeContainer {
+private:
+    double* elem;
+    int sz = 0;
+
+public:
+    SomeContainer(int s) {    // warns about lack of member init list
+        if (s < 0) // but a class invariant is useful in this case
+          throw length_error("Container constructor: negative size");
+        elem = new double[s];
+        sz = s;
+    }
+}
+```
+
+See `man g++` for details...
+
 
 ```
 -Weffc++ (C++ and Objective-C++ only)

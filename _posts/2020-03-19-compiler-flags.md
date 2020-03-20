@@ -4,9 +4,9 @@ layout: post
 
 # g++ compiler flags you should know about
 
-I decide to `Compile` a list of flags I've stumbled upon while grepping the compiler man pages. Who will compile the compilers?
+I decide to `Compile` a list of flags I've stumbled upon while grepping the compiler man pages - after all, who will compile the compilers?
 
-This first one is great. Like most C++ devs, I am a huge fan of Scott Meyers Effective series of books. Any tech read that makes me laugh out loud deserves a permanent place on the bookshelf.
+This first one is great. Like most C++ devs, I am a huge fan of Scott Meyers ***Effective*** series of books. Any tech read that makes me laugh out loud deserves a permanent place on the bookshelf.
 
 I love this tidbit from the Recommended Reading section of ***More Effective C++*** regarding James Coplien's ***Advanced C++ Programming Styles and Idioms***:
 

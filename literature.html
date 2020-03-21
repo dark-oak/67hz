@@ -1,0 +1,17 @@
+---
+layout: default
+title: literature
+---
+
+<h1>Literature</h1>
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.category == "literature" %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

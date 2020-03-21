@@ -1,0 +1,17 @@
+---
+layout: default
+title: software
+---
+
+<h1>Code</h1>
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.category == "software" %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

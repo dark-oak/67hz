@@ -18,7 +18,7 @@ Woolf can be lachrymose, no doubt. But where she induces sadness, she lifts the 
 
 > About here, she thought, dabbling her fingers in the water, a ship had sunk, and she muttered, dreamily half asleep, how we perished, each alone.
 
-There are so many stunning passages in this book. How Woolf can dish out many a lifetime worth of epiphanies and poignant lamentations is beyond reality. Reading, I mark passages that make me rethink the heavy stuff: life, love, quotidian banalities. I stopped marking a third of the way in. The heavy stuff is too numerous to keep track of. Focus is key while reading ***To The Lighthouse***. Any line may contain the next potential shotgun blast to the heart.
+There are so many stunning passages in this book. How Woolf can dish many a lifetime worth of epiphanies and poignant lamentations is beyond reality. Reading, I mark passages that make me rethink the heavy stuff: life, love, quotidian banalities. I stopped marking a third of the way in. The heavy stuff is too numerous to keep track of. Focus is key while reading ***To The Lighthouse***. Any line may contain the next potential shotgun blast to the heart.
 >
 > > All the being and the doing, expansive, glittering, vocal, evaporated; and one shrunk, with a sense of solemnity, to being oneself, a wedge-shaped core of darkness, something invisible to others.
 

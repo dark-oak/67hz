@@ -16,17 +16,17 @@ Woolf can be lachrymose, no doubt. But where she induces sadness, she lifts the 
 
 > About here, she thought, dabbling her fingers in the water, a ship had sunk, and she muttered, dreamily half asleep, how we perished, each alone.
 
-There are so many passages in this book that left me stunned. How Woolf can dish out many a lifetime worth of epiphanies and poignant lamentations is beyond reality. Reading, I mark passages that make me rethink the heavy stuff: life, love, quotidian banalities. I stopped marking a third of the way in. The heavy stuff is too numerous to keep track of. Focus is key while reading ***To The Lighthouse***. Any line may contain the next potential shotgun blast to the heart.
+There are so many stunning passages in this book. How Woolf can dish out many a lifetime worth of epiphanies and poignant lamentations is beyond reality. Reading, I mark passages that make me rethink the heavy stuff: life, love, quotidian banalities. I stopped marking a third of the way in. The heavy stuff is too numerous to keep track of. Focus is key while reading ***To The Lighthouse***. Any line may contain the next potential shotgun blast to the heart.
 >
 > > All the being and the doing, expansive, glittering, vocal, evaporated; and one shrunk, with a sense of solemnity, to being oneself, a wedge-shaped core of darkness, something invisible to others.
 
-When people tell me they only read non-fiction because they prefer to learn things when they read, I immediately file them in the disposable characters category. Woolf is a great answer to the misinformed and erudite. Read this. Learn about life. Learn about passions. Learn about loss. Learn about understanding. It is all here in under 250 pages. If you finish it without laughing out loud, crying yourself to sleep, or rethinking what you are doing or have done with your life, you have an operating system that needs updating - you ain't human. Spend a weekend with this one. Stick with it. Find Virginia's pace and let her pull back the curtain for you.
+When people tell me they only read non-fiction because they prefer to learn when they read, I immediately file them in the disposable characters category. Woolf is a great answer to the misinformed and erudite. Read this. Learn about life. Learn about passions. Learn about loss. Learn about understanding. It is all here in under 250 pages. If you finish it without laughing out loud, crying yourself to sleep, and rethinking what you are doing or have done with your life, you have an operating system that needs updating - you ain't human. Spend a weekend with this one. Stick with it. Find Virginia's pace and let her pull back the curtain for you.
 
 
 > Yes, she thought, laying down her brush in extreme fatigue, I have had my vision.
 
 
-[To the Lighthouse](https://amzn.to/2xiwLTh)
+[To the Lighthouse](https://amzn.to/2xiwLTh) by Virgina Woolf
 
 
 * * * 

@@ -1,6 +1,12 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic');
 
+$base-color: #FDF5E8; // 67hz - paperlight
+$base-color-darker: #f5ce8f; // 67hz - paperlight 25% darker
+$base-dark-color: #292826; // 67hz
+$base-gray-color: #4e4c48; // 67hz
+
+
 /* MeyerWeb Reset */
 
 html, body, div, span, applet, object, iframe,
@@ -32,8 +38,7 @@ body {
 	font-size: 14px;
 	color: #232323;
 	// background-color: #FBFAF7;
-	background-color: #FDF5E8; // 67hz - paperlight
-	// background-color: #f5ce8f; // 67hz - paperlight 25% darker
+	background-color: $base-color; // 67hz - paperlight
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -116,7 +121,7 @@ blockquote {
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
-  background: #f5ce8f; // 67hz
+  background: $base-color-darker; //67hz
   font-size: 16px;
 }
 
@@ -220,13 +225,12 @@ td {
 /* Header */
 
 header {
-	// background-color: #171717;
-	background-color: #4e4c48; // 67hz
-	// background-color: #292826; // 67hz
-	color: #FDFDFB;
-  width:170px;
-  float:left;
-  position:fixed;
+
+	background-color: $base-dark-color;
+	color: $base-color; // 67hz - paperlight
+	width:170px;
+	float:left;
+	position:fixed;
 	border: 1px solid #000;
 	-webkit-border-top-right-radius: 4px;
 	-webkit-border-bottom-right-radius: 4px;
@@ -254,7 +258,7 @@ h1.header {
 
 
 h1.header, a.header, a.name, header a{
-	color: #fff;
+	color: $base-color;
 }
 
 a.header {
@@ -318,7 +322,7 @@ a.github {
 }
 
 a.buttons:hover {
-	color: #fff;
+	color: $base-color;
 	text-decoration: none;
 }
 

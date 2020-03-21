@@ -5,6 +5,8 @@ $base-color: #FDF5E8; // 67hz - paperlight
 $base-color-darker: #f5ce8f; // 67hz - paperlight 25% darker
 $base-dark-color: #292826; // 67hz
 $base-gray-color: #4e4c48; // 67hz
+$base-green: #eff1ea;
+$base-linen: #faf0e6; //67hz
 
 
 /* MeyerWeb Reset */
@@ -332,7 +334,7 @@ a.buttons:hover {
 section {
   width:650px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:25px;
 }
 
 
@@ -431,4 +433,17 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.byline {
+	float: right;
+	padding: 0% 2%;
+	address {
+		display: inline;
+	}
+	background-color: $base-green;
+	display: inline;
+	time {
+		display: inline;
+	}
 }

@@ -1,9 +1,21 @@
 ---
 layout: default
 ---
+<h3><a href="/{{ page.category }}">{{ page.category }}</a></h1>
 
 <h1>{{ page.title }}</h1>
-<!-- <h3>{{ page.category }}</h1> -->
-<!-- <p>{{ page.data | date_to_string }} &#45; {{ page.author }}</p> -->
+
+<section class="post-info">
+ <div class="byline">
+	 <time pubdate datetime="{{ page.my_date }}" title="{{ page.my_date }}">{{ page.my_date }}</time>
+	 <!-- <address class="author">{{ page.author }}</address>  -->
+</div>
+</section>
+
+<!-- <p>{{ page.data | date_to_string }} &#38;#45; {{ page.author }}</p> -->
+<article>
+
 
 {{ content }}
+
+</article>

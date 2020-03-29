@@ -40,3 +40,15 @@ title: Blog
     {% endif %}
   {% endfor %}
 </ul>
+
+<h2>Painting</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.category == "painting" %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

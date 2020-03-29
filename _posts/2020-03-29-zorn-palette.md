@@ -14,7 +14,7 @@ color-precision = realism
 
 To get photo-quality paintings you really have to nail your colors.
 
-The zorn color palette has been around for centuries and is the basis for a lot of portrait masterpieces. 
+The zorn color palette has been around for centuries and is the basis for many of the portrait masterpieces you see hanging on gallery walls around the world.
 
 This is one of the better breakdowns of the palette with a nice portrait study.
 

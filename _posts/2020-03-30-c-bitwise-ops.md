@@ -5,7 +5,7 @@ category: software
 tags: [c++, c, bitwise ops]
 ---
 
-### Bits of bitwise magic
+Bits of bitwise magic
 
 
 1. Set the kth bit in n

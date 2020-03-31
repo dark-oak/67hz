@@ -5,7 +5,7 @@ category: software
 tags: [c++, c, bitwise ops]
 ---
 
-A loose collection of bit fiddlin' tricks:
+A loose collection of biwise magic:
 
 1. Set the kth bit in n
 

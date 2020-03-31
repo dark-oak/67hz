@@ -5,49 +5,47 @@ category: software
 tags: [c++, c, bitwise ops]
 ---
 
-A loose collection of biwise magic:
+### Bits of bitwise magic
+
 
 1. Set the kth bit in n
-
 ```cpp
 n = n | 1 << k;
 ```
 
-2. Clear the kth bit in n
-
+1. Clear the kth bit in n
 ```cpp
 n = n & 0 << k;
 n = n & ~(1 << k); // same as above
 n &= ~(1 << k);
 ```
 
-3. Toggle the kth bit in n
+1. Toggle the kth bit in n
 ```cpp
 n = n ^ 1 << k;
 ```
 
-
-4. Erase the lowest set bit:
+1. Erase the lowest set bit:
 ```cpp
 x = x & (x - 1);
 ```
 
-5. Isolate the lowest bit that is 1 in x
+1. Isolate the lowest bit that is 1 in x
 ```cpp
 x & ~(x - 1);
 ```
-6. Identity - useful for extracting least significant bit
+1. Identity - useful for extracting least significant bit
 ```cpp
 x &= 1;
 ```
-7. Exponentiation base 2. This prevents ambiguity errors that might come up if using `<cmath>` in something like:
+1. Base 2 exponentiation. - prevents ambiguity errors that might come up using `<cmath>` and `pow()`
 ```cpp
 std::array<int>(pow(2, 64)); // ambiguous, first param expects a double
 // avoid this and just use >>
 std::array<int>(1 << 64);
 ```
 
-8. Toggle last bit - useful in keeping a binary sum (e.g., parity count - even/odd count of 1s in binary)
+1. Toggle last bit - useful in keeping a binary sum (e.g., parity count - even/odd count of 1s in binary)
 
 ```cpp
 short result = 0;

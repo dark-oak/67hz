@@ -2,23 +2,17 @@
 layout: default
 ---
 
+# Remembering Joe Diffie
 
-# Recent Reads
+>> Fix me up with a mannequin, just remember I like blondes. I'll be the life of the party, even when I'm dead and gone.
+>> -- Joe Diffie (December 28, 1958-March 29, 2020)
 
-<a target="_blank" href="https://www.amazon.com/gp/product/1430250984/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430250984&linkCode=as2&tag=67hz-20&linkId=37a05b4909da82b866459d8f8bb1701f">Cryptography in C and C++</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=67hz-20&l=am2&o=1&a=1430250984" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Someone prop him up next to the jukebox; Joe Diffie took to the great highway in the sky on March 29, 2020. He was one of those 90's Nashville honky-tonkers that was always just under the radar. Diffie is one of the dozen or so musicians that, to me, defined 90's country. Jason Aldean, who is wildly popular in the new (awful) school of country throws a nod to Diffie in the abhorrent ["1994"](https://youtu.be/77Wsfi3fB70) anthem. He was as 90's as it gets.
 
+This one brings me back to middle school dances, Michael Jordan cologne, braided belts and Girbauds. Here's to you Joe.
 
-After using libraries like [Libsodium](https://download.libsodium.org/doc) for most of my hashing and encryption needs, trusting the API and moving on to the next task, I thought it was about time to peek under the covers and get aquainted with some industry-standard algos. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMiEFyTuuh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Cryptography in C and C++*** opens with a breakdown of number theory in C. This is a good crash course in arithmetic and number theory in its own right. Moving on to the actual breakdown analysis of functions and algorithms happens seamlessly about 200 pages in. This is a dense read, but worth it.
-
-
-... Plus, any book that opens with this quote is destined to be good, right?
-
-> If you look at zero you see nothing; but look through it and you will see the world.
-> -- <cite>Robert Kaplan, The Nothing That Is: A Natural History of Zero</cite>
-
-Of course, now I have Kaplan's book on order from Thrift Books. This is one of many quote-based purchases. Should be a good'n.
 
 <h1>Latest Posts</h1>
 

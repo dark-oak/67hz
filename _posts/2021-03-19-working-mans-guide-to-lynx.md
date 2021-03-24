@@ -2,8 +2,9 @@
 layout: post
 title: Lynx: A Working Man's Guide
 category: software
-tags: [lynx, unix]
+tags: [c++, lynx, unix]
 ---
+
 
 # The Working Man's Guide To Lynx
 

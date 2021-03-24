@@ -6,7 +6,7 @@ tags: [c++, c, g++, gcc, compilers]
 ---
 
 
-I decide to `Compile` a list of flags I use or stumbled upon while grepping the compiler man pages trying to remember how to disable this or that - after all, who will compile the compilers?
+I decided to `Compile` a list of flags I use or stumbled upon while grepping the compiler man pages trying to remember how to disable this or that - after all, who will compile the compilers?
 
 # 1. The Meyers flag (g++)
 
@@ -88,7 +88,7 @@ Modern C++ gives us move semantics for free. No more worrying about returning th
 giant container by value anymore.
 
 ```cpp
-void spamAllMyLicentiousPhoneNumbers(BlackBook& bb1, BlackBook& bb2, BlackBook& bb3)
+void spamLicentiousPhoneNumbers(BlackBook& bb1, BlackBook& bb2, BlackBook& bb3)
 {
     BlackBook masterList;
     //...
@@ -99,19 +99,13 @@ void spamAllMyLicentiousPhoneNumbers(BlackBook& bb1, BlackBook& bb2, BlackBook& 
 }
 ```
 
-In the old days we would be looking at 2 copys, one for each of the `+` operators. Needless to say, each one of those `BlackBook` containers would be nothing-short-of-immense. Come on...
-
-Seriously...
-
-So here we are making expensive copies to return out of the function just so we can delete the `masterList` once it goes out of scope. Nasty? You bet your text-messaging rate it is. Nowadays, thanks to copy elision, we can live recklessly. Most compilers will optimize this into a move operation and we can shift our worries from resultant memory allocation into the operational result of the function.
+In the old days we would be looking at 2 copys, one for each of the `+` operators. We are making expensive copies to return out of the function just so we can delete the `masterList` once it goes out of scope. Nasty? You bet your text-messaging rate it is. Nowadays, thanks to copy elision, we can live recklessly. Most compilers will optimize this into a move operation and we can shift our worries from resultant memory allocations into the operational result of the function itself.
 
 Let's go back in time and dream on what could have been...
 
 `-fnoelide-constructors`
 
-Set this flag and watch your copy ctors light up. No more copy elision. Let's see the real cost of this aggregation of data. You might just have to define move assignment and move constructors depending on what your `BlackBook` looks like.
-
-
+Set this flag and watch your copy ctors light up. No more copy elision. Let's see the real cost of this aggregation of data.
 
 
 

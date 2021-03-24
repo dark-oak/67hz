@@ -4,9 +4,6 @@ layout: default
 
 # Remembering Joe Diffie
 
->> Fix me up with a mannequin, just remember I like blondes. I'll be the life of the party, even when I'm dead and gone.
->> -- Joe Diffie (December 28, 1958-March 29, 2020)
-
 Someone prop him up next to the jukebox; Joe Diffie took to the great highway in the sky on March 29, 2020. He was one of those 90's Nashville honky-tonkers that was always just under the radar. Diffie is one of the dozen or so musicians that, to me, defined 90's country. Jason Aldean, who is wildly popular in the new (awful) school of country throws a nod to Diffie in the abhorrent ["1994"](https://youtu.be/77Wsfi3fB70) anthem. He was as 90's as it gets.
 
 This one brings me back to middle school dances, Michael Jordan cologne, braided belts and Girbauds. Here's to you Joe.
